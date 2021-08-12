@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The effect of reservoirs on the climatology of warm-season thunderstorms in Southeast Texas, USA."
-authors: []
+authors: ["Alex Haberlie", "Walker Ashley", "Andrew Fultz", "Shane Eagan"]
 date: 2016-01-01
 doi: "https://doi.org/10.1002/joc.4461"
 

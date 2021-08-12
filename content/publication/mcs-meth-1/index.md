@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mcs Meth 1"
-authors: []
-date: 2021-08-06T19:51:41-05:00
-doi: ""
+title: "A method for identifying midlatitude mesoscale convective systems in radar mosaics. Part I: Segmentation and classification"
+authors: ["Alex Haberlie", "Walker Ashley"]
+date: 2018-01-01T19:51:41-05:00
+doi: "https://doi.org/10.1175/JAMC-D-17-0293.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-06T19:51:41-05:00
@@ -16,10 +16,10 @@ publishDate: 2021-08-06T19:51:41-05:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "<i>Journal of Applied Meteorology and Climatology</i>, <b>57</b>, 1575-1598."
 publication_short: ""
 
-abstract: ""
+abstract: "This research evaluates the ability of image-processing and select machine-learning algorithms to identify midlatitude mesoscale convective systems (MCSs) in radar-reflectivity images for the conterminous United States. The process used in this study is composed of two parts: segmentation and classification. Segmentation is performed by identifying contiguous or semicontiguous regions of deep, moist convection that are organized on a horizontal scale of at least 100 km. The second part, classification, is performed by first compiling a database of thousands of precipitation clusters and then subjectively assigning each sample one of the following labels: 1) midlatitude MCS, 2) unorganized convective cluster, 3) tropical system, 4) synoptic system, or 5) ground clutter and/or noise. The attributes of each sample, along with their assigned label, are used to train three machine-learning algorithms: random forest, gradient boosting, and “XGBoost.” Results using a testing dataset suggest that the algorithms can distinguish between MCS and non-MCS samples with a high probability of detection and low probability of false detection. Further, the trained algorithm predictions are well calibrated, allowing reliable probabilistic classification. The utility of this two-step procedure is illustrated by generating spatial frequency maps of automatically identified precipitation clusters that are stratified by using various reflectivity and probabilistic prediction thresholds. These results suggest that machine learning can add value by limiting the amount of false-positive (non-MCS) samples that are not removed by segmentation alone."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://journals.ametsoc.org/downloadpdf/journals/apme/57/7/jamc-d-17-0293.1.xml
 url_code:
 url_dataset:
 url_poster:
