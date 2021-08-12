@@ -22,8 +22,8 @@ weight = 15  # Order that this section will appear.
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Red"
-  gradient_end = "Black"
+  gradient_start = "#000000"
+  gradient_end = "#000000"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -33,7 +33,7 @@ weight = 15  # Order that this section will appear.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.

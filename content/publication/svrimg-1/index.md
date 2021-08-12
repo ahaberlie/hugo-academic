@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Svrimg 1"
-authors: []
-date: 2021-08-06T19:52:43-05:00
-doi: ""
+title: "Mean Storms: Composites of Radar Reflectivity Images During Two Decades of Severe Thunderstorm Events"
+authors: ["Alex Haberlie", "Walker Ashley", "Marisa Karpinski"]
+date: 2021-01-01T19:52:43-05:00
+doi: "https://doi.org/10.1002/joc.6804"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-06T19:52:43-05:00
@@ -13,10 +13,10 @@ publishDate: 2021-08-06T19:52:43-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "<i>International Journal of Climatology</i>, <b>41</b>, E1738-E1756"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/joc.6804
 url_code:
 url_dataset:
 url_poster:

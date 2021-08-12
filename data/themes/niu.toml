@@ -1,0 +1,27 @@
+# Theme metadata
+name = "niu"
+
+# Is theme light or dark?
+is_light = false
+
+
+# Primary
+primary = "rgb(200, 16, 46)"
+
+# Menu
+menu_primary = "#c8102e"
+menu_text = "#000"
+menu_text_active = "rgb(165, 167, 168)"
+menu_title = "#000"
+
+[dark]
+  # Menu
+  menu_primary = "#c8102e"
+  menu_text = "#000"
+  menu_text_active = "#000"
+  menu_title = "#000"
+
+  # Backgrounds
+  background = "#000"
+  home_section_odd = "#000"
+  home_section_even = "#000"

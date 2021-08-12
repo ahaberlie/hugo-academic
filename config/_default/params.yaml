@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: modern
+theme: niu
 day_night: true
 font: ''
 font_size: L
@@ -99,11 +99,11 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: ametsoc
+  citation_style: apa
 projects:
   post_view: 2
   publication_view: 2
-  talk_view: 2
+  talk_view: 0
 breadcrumb:
   page_types:
     book: true

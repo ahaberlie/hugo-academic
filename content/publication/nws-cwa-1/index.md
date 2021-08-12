@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Nws Cwa 1"
-authors: []
-date: 2021-08-06T19:52:55-05:00
-doi: ""
+title: "Assessment of NWS County Warning Area Tornado Risk, Exposure, and Vulnerability"
+authors: ["Stephen Strader", "Alex Haberlie", "Alexandra Loitz"]
+date: 2021-04-01T19:52:55-05:00
+doi: "https://doi.org/10.1175/WCAS-D-20-0107.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-06T19:52:55-05:00
@@ -13,10 +13,10 @@ publishDate: 2021-08-06T19:52:55-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "<i>Weather, Climate, and Society</i>, <b>13</b>, 189–209"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://journals.ametsoc.org/view/journals/wcas/aop/WCAS-D-20-0107.1/WCAS-D-20-0107.1.xml
 url_code:
 url_dataset:
 url_poster:
