@@ -5,7 +5,7 @@
 
 title: Alex Haberlie # Website name
 baseurl: 'ahaberlie.github.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me '
 
 ############################
 ## LANGUAGE
